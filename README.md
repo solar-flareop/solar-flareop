@@ -11,7 +11,7 @@
 
 ## ⚡ About Me
 
-* Backend-focused engineer working on **cloud-native systems at scale**
+* Backend-focused engineer with ~2 years of experience building  **cloud-native systems at scale**
 * Strong in **System Design, GCP, and event-driven architectures**
 * Passionate about building **real-world impact solutions (₹ savings, automation, scale)**
 
@@ -21,12 +21,13 @@
 
 ```
 Backend      → Java, Spring Boot, Microservices, REST APIs  
-Cloud        → GCP (Compute Engine, Cloud Run, BigQuery, Cloud SQL)  
+Cloud        → GCP (Compute Engine, Cloud Run, BigQuery, Cloud SQL… and whatever else the architecture demands)
 DevOps       → Docker, GitHub Actions, Terraform, CI/CD  
 Data         → PostgreSQL, MySQL, MongoDB  
 Systems      → Kafka, Redis  
 Core         → DSA, OOP, System Design  
 Frontend     → React, JavaScript, HTML, CSS (working knowledge)
+Languages    → C++ (DSA first love), Java (systems I build in production), JavaScript (works when needed)
 ```
 
 ---
